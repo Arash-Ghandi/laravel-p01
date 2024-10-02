@@ -25,7 +25,7 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
-
+_ide_helper.php
 # End of https://www.toptal.com/developers/gitignore/api/laravel
 
 1
